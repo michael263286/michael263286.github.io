@@ -1,4 +1,5 @@
 ---
-layout: home
+title: Me and Web Dev
 ---
 
+Having been through three sessions of class already, I feel as though the learning pace is not bad and I am retaining a lot of information. That's probably due to the hands on aspect and immediate feedback, so by the time 16 weeks has passed, I feel confident that I'll know more than I did initially. After 6 months I hope to have at least one job interview under my belt. I know it will be tough but I will keep polishing my skills to reach my goals. A year from now I hope to be employed and getting industry experience. Getting to learn from someone who has that experience is really cool and exciting and every class has been interesting so far. Being scared is natural, but I have a good instructor so I feel safe and eager to learn daily. What I hope to accomplish is to just learn and gain the skills necessary to be a good developer, so that I may someday showcase my skills in my career. I already experience roadblocks, but I feel that the best way to learn and grow is to be faced with challenges that make you uncomfortable. So I dive right in. As an instructor I feel as though everything has been going smoothly so there's not much more to be done. I am currently very satisfied with the process so far.
